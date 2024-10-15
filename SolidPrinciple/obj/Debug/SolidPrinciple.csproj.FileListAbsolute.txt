@@ -1,0 +1,7 @@
+C:\Users\galat\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\SolidPrinciple.exe.config
+C:\Users\galat\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\SolidPrinciple.exe
+C:\Users\galat\source\repos\SolidPrinciple\SolidPrinciple\bin\Debug\SolidPrinciple.pdb
+C:\Users\galat\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\SolidPrinciple.csproj.AssemblyReference.cache
+C:\Users\galat\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\SolidPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\galat\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\SolidPrinciple.exe
+C:\Users\galat\source\repos\SolidPrinciple\SolidPrinciple\obj\Debug\SolidPrinciple.pdb
